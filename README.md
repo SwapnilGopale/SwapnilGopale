@@ -29,7 +29,7 @@
       I'm a Software Developer :man_technologist:
       Having 3+ years of experience developing webapps :earth_asia:	
       I love programming 👨‍💻,
-      Love :heart: learning and implementing new technologies
+      Love :heart: learning and implementing new technologies and development techniques
     </td>
   </tr>
 </table>
