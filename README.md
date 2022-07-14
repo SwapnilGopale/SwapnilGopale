@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there, Welcome to my github profile <img src="https://github.com/SwapnilGopale/SwapnilGopale/blob/master/Hi.gif" width="30"> </h2>
 <p align="center">
-  <img width="50%"  src="https://github.com/SwapnilGopale/SwapnilGopale/blob/master/this-is.gif" alt="Swapnil Gopale">
+  <img width="80%"  src="https://github.com/SwapnilGopale/SwapnilGopale/blob/master/this-is.gif" alt="Swapnil Gopale">
 </p>
 <div align="center">
   
